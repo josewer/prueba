@@ -1,6 +1,7 @@
 
 public class HolaMundo {
   public static void main(String args[]) throws Exception {
-    System.out.println("Hola Mundoo");
+    System.out.println("Hola caracola!");
+    
   }
 }
